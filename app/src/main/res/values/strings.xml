@@ -1,0 +1,271 @@
+<resources>
+    <string name="app_name">Career Anchor</string>
+
+
+    <string name="Q1">1 - I dream of being so good at what I do that my expert opinion is always
+requested.
+</string>
+
+    <string name="Q2">2 – I feel more fulfilled in my work when I am able to integrate and manage the
+work of others.
+</string>
+
+    <string name="Q3">3 - I dream of having a career that gives me the freedom to do the job my way and not
+time programmed by me.</string>
+
+    <string name="Q4">4 - Security and stability are more important to me than freedom and autonomy.
+</string>
+
+    <string name="Q5">5 - I am always looking for ideas that will allow me to start my own business.
+</string>
+
+    <string name="Q6">6 – I will experience success in my career if I feel that I have truly contributed.
+        for the well-being of society.
+</string>
+
+    <string name="Q7">7 - I dream of a career where I can solve problems or win in situations
+extremely challenging.
+    </string>
+
+    <string name="Q8">8 - Id rather leave my job than be placed in a job that compromises my
+ability to satisfy my personal and family interests.
+    </string>
+
+    <string name="Q9">9 – I will only feel successful in my career if I can develop my
+technical and functional skills to the highest level of competence.
+</string>
+
+    <string name="Q10">10 - I dream of running a complex organization and making decisions that affect many
+people.
+</string>
+
+    <string name="Q11">11 – I feel more fulfilled in my work when I have complete freedom to define
+my own tasks, schedules and procedures.</string>
+
+    <string name="Q12">12 - I"d rather keep my current activity than accept another task that might put me at risk
+my security at the company.
+    </string>
+
+    <string name="Q13">13 - Setting up my own business is more important to me than reaching a high
+managerial position as an employee.</string>
+
+    <string name="Q14">14 – I feel more fulfilled in my career when I can use my talents to
+service of others.
+    </string>
+
+    <string name="Q15">15 – I feel more fulfilled in my career when I can use my talents to
+service of others.
+    </string>
+
+    <string name="Q16">16 - I dream of a career that allows me to integrate my personal needs,
+family and work.
+</string>
+
+    <string name="Q17">17 – Becoming a technical manager in my area of expertise is more attractive to
+me than becoming a general manager in some organization.
+</string>
+
+    <string name="Q18">18 - I will feel successful in my career only when I become a manager.
+general in some organization.</string>
+
+    <string name="Q19">19 - I will feel successful in my career only when I achieve full autonomy.
+and freedom.
+</string>
+
+    <string name="Q20">20 - I"m looking for jobs in organizations that give me a sense of security and
+        stability.
+    </string>
+
+    <string name="Q21">21 – I feel fulfilled in my career when I am able to build something
+that is entirely the result of my ideas and efforts.</string>
+
+    <string name="Q22">22 - Use my skills to make the world a better place to live and
+working is more important to me than reaching a high-level managerial position.
+</string>
+
+    <string name="Q23">23 – I feel more fulfilled in my career when I solve problems
+apparently insoluble or I win what was apparently impossible to be won.</string>
+
+    <string name="Q24">24 – I feel successful in life only when I am able to balance my
+personal, family and career needs.
+    </string>
+
+    <string name="Q25">25 - I prefer to leave the company where I am accepting a job on a
+        rotating basis that move away from my area of expertise.
+    </string>
+
+    <string name="Q26">26 – Becoming a general manager is more attractive to me than becoming a director
+technician in my area of expertise.
+    </string>
+
+    <string name="Q27">27 - For me, being able to do a job my way, free from rules and restrictions, is more
+important than security.
+    </string>
+
+    <string name="Q28">28 – I feel more fulfilled in my work when I realize that I have complete security
+financial and job stability.
+    </string>
+
+    <string name="Q29">29 – I feel successful in my work only when I can create or build
+something that is entirely my own.
+    </string>
+
+    <string name="Q30">30 - I dream of having a career that makes a real contribution to humanity and to
+society.
+    </string>
+
+    <string name="Q31">31 -I"m looking for job opportunities that strongly challenge my abilities to
+solve problems.
+</string>
+
+    <string name="Q32">32 - Balancing the demands of my personal and professional life is more important than
+who achieve high managerial position.
+    </string>
+
+    <string name="Q33">33 – I feel fully fulfilled in my work when I am able to employ
+my special skills and talents.
+    </string>
+
+    <string name="Q34">34 - I prefer to leave the company where I am accepting a position that takes
+        me away from the path of general board.
+</string>
+
+    <string name="Q35">35 -
+I prefer to leave the company where I am accepting a position that reduces my
+        autonomy and freedom.
+    </string>
+
+    <string name="Q36">36 -
+I dream of having a career that gives me a sense of security and stability.
+    </string>
+
+    <string name="Q37">37 - I dream of starting and setting up my own business.
+    </string>
+
+    <string name="Q38">38 – I prefer to leave the company where I am accepting a position that harms
+        my ability to be helpful to others.
+    </string>
+
+    <string name="Q39">39 - Working on virtually unsolvable problems for me is more important.
+        than achieving a high-level managerial position.
+    </string>
+
+    <string name="Q40">40 - I always looked for work opportunities that minimized interference
+        with personal and family matters.
+    </string>
+
+    <string name="hintquestoes">Between "1 to 6" how much do you identify \n with this statement?
+    </string>
+
+    <string name="txtintro">             CAREER ANCHORS\n\n
+   In the 1970s, Edgar Schein, PhD in Social Psychology from the University
+   of Harvard and professor emeritus at the Sloan School of Management, the school of
+   businesses of the Massachusetts Institute of Technology (MIT), in the United States,
+   developed the theory of career anchors.\n
+   Despite being old, the career anchor test theory is still valid for
+   who seeks greater self-knowledge to direct their own lives
+   professional.\n
+   According to Schein, the anchors – eight in total – are pillars that guide the
+   career decisions of professionals. The career anchors test, if aimed
+   in making each professional discover what their anchors are:\n
+   • A: Technical-functional competence;\n
+   • B: General administrative competence;\n
+   • C: Autonomy and independence;\n
+   • D: Security and stability;\n
+   • E: Entrepreneurial creativity;\n
+   • F: Dedication to a cause;\n
+   • G: Pure challenge;\n
+   • H: Lifestyle\n
+   They represent the unique combination of each in relation to the perception of
+   career competence, motives and values. Knowing what your anchors are,
+   its easier to find the best company for you to work for, where your
+   profile is aligned with the organizational culture.</string>
+
+    <string name="instrucaoquest">INSTRUCTIONS FOR STARTING THE CAREER ANCHOR TEST \n
+For items 1 to 40 below, use the
+following scale to rate how true each item is for
+you :\n\n
+1 - The statement is never true for me \n
+2 to 3 - Occasionally true for me \n
+4 to 5 - Often true for me \n
+6 - Its always true for me \n\n
+    Fill in one of the values mentioned above in each of the 40 questions below and in the
+        sequence click view results: </string>
+
+   <string name="txtresultadoA">A - Technical-functional competence
+Technically anchored people commit to a career in
+Specialization. They are motivated when they are experts in a
+a given subject, they are looking for challenging jobs, they want to test the
+knowledge and skill they have in their area of expertise. They are
+people who do not aim for high administrative positions (these usually
+are more general) but specialist positions in a particular
+area.</string>
+
+    <string name="txtresultadoB">B - General Administrative Competence
+Who has general administrative competence as a career anchor
+seeks, throughout his professional life, to achieve the highest levels of
+responsibility in the organization. They are people who aim at leadership and have
+as a motivation to reach the top of the corporate hierarchy. For them, the
+specialization is a trap: they understand the importance of knowing the
+functional areas, but do not seek to delve technically, as
+they want the general management role.</string>
+
+    <string name="txtresultadoC">C - Autonomy and Independence
+People with this anchor will, over time, seek a career
+that allows for greater independence, that allows them to impose their own
+conditions. Autonomy is inherent in any human being, in levels
+different, but those who have this anchor strongly feel the need to
+be master of your own destiny, do things your way, and so will
+organize your professional life around jobs that suit you.
+provide more choice and decision-making power.</string>
+
+    <string name="txtresultadoD">D -Security and Stability
+Here fit people who need to feel safe in the environment of
+work. They seek greater predictability of the future, they want to "know
+where they step”. Are attracted to jobs in companies that offer this
+stability, with good retirement plans and a good reputation. is this
+stability, mainly financial, which will guide the career of these
+professionals.</string>
+
+
+    <string name="txtresultadoE">E - Entrepreneurial Creativity
+This anchor includes professionals with the knack for creating new
+businesses and organizations. They are not necessarily people with
+artistic creativity, but with an entrepreneurial spirit, who want
+establish or restructure their own businesses. Have motivation to,
+from an early age, start ventures to earn money. It is worth mentioning
+that the focus here is not the search for autonomy, but the creation of
+Business.</string>
+
+    <string name="txtresultadoF">F - Dedication to a cause
+People with this anchor are guided in their career by values that
+want to print on your work. They turn to values and
+they are dedicated to causes rather than to their talents and skills. They are
+professionals who want, in some way, to contribute to a world
+better through your work.</string>
+
+    <string name="txtresultadoG">G - Pure Challenge
+This anchor fits professionals who define success as
+overcoming impossible obstacles or as the ability to solve
+unsolvable problems. These are people who need to feel that they can
+conquer anything. The search for challenges permeates the career of
+most people, but for those who are anchored in pure challenge, thats what
+guides your trajectory - all your professional decisions will always
+be aiming to overcome increasing challenges.</string>
+
+    <string name="txtresultadoH">H - Lifestyle
+They often interpret this anchor as being that of people who do not
+give priority to your career. But thats not what it is. The question is that
+people anchored by the lifestyle seek to find a way to
+integrate all your needs: individual, family and career.
+They may be highly motivated by work, but understand that it must
+integrate into your life as a whole. They are people who want, above
+everything, flexibility. Thats why they look more at the companys attitude than
+for the work program itself. The difference to the anchor
+autonomy is that they adapt well to the organizational environment, with
+their rules and restrictions, but want to have more flexible work options.</string>
+
+    <string name="btiniciateste">START TEST</string>
+
+    <string name="btmostraresult">SHOW RESULT</string>
+</resources>

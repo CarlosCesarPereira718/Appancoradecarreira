@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">Âncora de Carreiras</string>
+
+
+    <string name="Q1">1 - Sonho em ser tão bom no que faço que minha opinião de especialista seja sempre
+solicitada.
+</string>
+
+    <string name="Q2">2 – Me sinto mais realizado em meu trabalho quando sou capaz de integrar e gerenciar o
+trabalho dos outros.
+</string>
+
+    <string name="Q3">3 - Sonho em ter uma carreira que me dê a liberdade de fazer o trabalho do meu jeito e no
+tempo por mim programado.</string>
+
+    <string name="Q4">4 - Segurança e estabilidade são mais importantes para mim do que liberdade e autonomia.</string>
+
+    <string name="Q5">5 - Estou sempre procurando ideias que me permitam iniciar meu próprio negócio.</string>
+
+    <string name="Q6">6 – Sentirei sucesso na minha carreira se sentir que contribuí verdadeiramente para o bemestar da sociedade.
+</string>
+
+    <string name="Q7">7 - Sonho com uma carreira na qual eu possa solucionar problemas ou vencer em situações
+extremamente desafiadoras.</string>
+
+    <string name="Q8">8 - Prefiro deixar meu emprego a ser colocado em um trabalho que comprometa minha
+capacidade de satisfazer meus interesses pessoais e familiares.</string>
+
+    <string name="Q9">9 – Só me sentirei bem-sucedido em minha carreira se puder desenvolver minhas
+habilidades técnicas e funcionais até o mais alto nível de competência.
+</string>
+
+    <string name="Q10">10 - Sonho em dirigir uma organização complexa e tomar decisões que afetem muitas
+pessoas.
+</string>
+
+    <string name="Q11">11 – Me sinto mais realizado em meu trabalho quando tenho total liberdade de definir
+minhas próprias tarefas, horários e procedimentos.</string>
+
+    <string name="Q12">12 - Prefiro manter minha atividade atual a aceitar outra tarefa que possa colocar em risco
+minha segurança na empresa.</string>
+
+    <string name="Q13">13 - Montar meu próprio negócio é mais importante para mim do que atingir uma alta
+posição gerencial como funcionário.</string>
+
+    <string name="Q14">14 – Me sinto mais realizado em minha carreira quando posso utilizar meus talentos a
+serviço dos outros.</string>
+
+    <string name="Q15">15 – Me sinto realizado em minha carreira apenas quando enfrento e supero desafios
+extremamente difíceis.</string>
+
+    <string name="Q16">16 - Sonho com uma carreira que me permita integrar minhas necessidades pessoais,
+familiares e de trabalho.
+</string>
+
+    <string name="Q17">17 – Me tornar um gerente técnico em minha área de especialização é mais atraente para
+mim do que me tornar um gerente geral em alguma organização. ___
+</string>
+
+    <string name="Q18">18 - Me sentirei bem-sucedido em minha carreira apenas quando me tornar um gerente
+geral em alguma organização.</string>
+
+    <string name="Q19">19 - Me sentirei bem-sucedido em minha carreira apenas quando alcançar total autonomia
+e liberdade.
+</string>
+
+    <string name="Q20">20 - Procuro trabalhos em organizações que me deem senso de segurança e estabilidade.</string>
+
+    <string name="Q21">21 – Me sinto realizado em minha carreira quando sou capaz de construir alguma coisa
+que seja inteiramente resultado de minhas ideias e esforços.</string>
+
+    <string name="Q22">22 - Utilizar minhas habilidades para tornar o mundo um lugar melhor para se viver e
+trabalhar é mais importante para mim do que alcançar uma posição gerencial de alto nível.
+</string>
+
+    <string name="Q23">23 – Me sinto mais realizado em minha carreira quando soluciono problemas
+aparentemente insolúveis ou venço o que aparentemente era impossível de ser vencido.</string>
+
+    <string name="Q24">24 – Me sinto bem-sucedido na vida apenas quando sou capaz de equilibrar minhas
+necessidades pessoais, familiares e de carreira.</string>
+
+    <string name="Q25">25 - Prefiro sair da empresa onde estou a aceitar uma tarefa em esquema rotativo que me
+afaste da minha área de experiência.</string>
+
+    <string name="Q26">26 – Me tornar um diretor geral é mais atraente para mim do que me tornar um diretor
+técnico em minha área de especialização.</string>
+
+    <string name="Q27">27 - Para mim, poder fazer um trabalho do meu jeito, livre de regras e restrições, é mais
+importante do que segurança.</string>
+
+    <string name="Q28">28 – Me sinto mais realizado em meu trabalho quando percebo que tenho total segurança
+financeira e estabilidade no trabalho.</string>
+
+    <string name="Q29">29 – Me sinto bem-sucedido em meu trabalho apenas quando posso criar ou construir
+alguma coisa que seja inteiramente de minha autoria.</string>
+
+    <string name="Q30">30 - Sonho em ter uma carreira que faça uma real contribuição à humanidade e à
+sociedade.</string>
+
+    <string name="Q31">31 - Procuro oportunidades de trabalho que desafiem fortemente minhas habilidades para
+solucionar problemas.
+</string>
+
+    <string name="Q32">32 - Equilibrar as exigências da minha vida pessoal e profissional é mais importante do
+que alcançar alta posição gerencial.</string>
+
+    <string name="Q33">33 – Me sinto plenamente realizado em meu trabalho quando sou capaz de empregar
+minhas habilidades e talentos especiais.</string>
+
+    <string name="Q34">34 - Prefiro sair da empresa onde estou a aceitar um cargo que me afaste do caminho da
+diretoria geral.
+</string>
+
+    <string name="Q35">35 - Prefiro sair da empresa onde estou a aceitar um cargo que reduza minha autonomia e
+liberdade.</string>
+
+    <string name="Q36">36 - Sonho em ter uma carreira que me dê senso de segurança e estabilidade.</string>
+
+    <string name="Q37">37 - Sonho em iniciar e montar meu próprio negócio.</string>
+
+    <string name="Q38">38 – Prefiro sair da empresa onde estou a aceitar um cargo que prejudique minha
+capacidade de ser útil aos outros.</string>
+
+    <string name="Q39">39 - Trabalhar em problemas praticamente insolúveis para mim é mais importante do que
+alcançar uma posição gerencial de alto nível.</string>
+
+    <string name="Q40">40 - Sempre procurei oportunidades de trabalho que minimizassem interferências com
+assuntos pessoais e familiares.</string>
+
+    <string name="hintquestoes">Entre "1 a 6" o quanto você se identifica \n com esta afirmação?</string>
+
+    <string name="txtintro">              ÂNCORAS DE CARREIRA\n\n
+   Na década de 1970, Edgar Schein, PhD em psicologia social pela Universidade
+   de Harvard e professor emérito da Sloan School of Management, a escola de
+   negócios do Massachusetts Institute of Technology (MIT), nos Estados Unidos,
+   desenvolveu a teoria das âncoras da carreira.\n
+   Apesar de antiga, a teoria do teste âncora de carreira continua sendo válida para
+   quem busca maior autoconhecimento para direcionar a própria vida
+   profissional.\n
+   Segundo Schein, as âncoras – oito no total – são pilares que norteiam as
+   decisões de carreira dos profissionais. O teste âncoras de carreira, se objetiva
+   em fazer com que cada profissional possa descobrir quais são as suas âncoras:\n
+   • A: Competência técnico-funcional;\n
+   • B: Competência administrativa geral;\n
+   • C: Autonomia e independência;\n
+   • D: Segurança e estabilidade;\n
+   • E: Criatividade empreendedora;\n
+   • F: Dedicação a uma causa;\n
+   • G: Desafio puro;\n
+   • H: Estilo de vida\n
+   Elas representam a combinação única de cada um em relação à percepção de
+   competência de carreira, motivos e valores. Sabendo quais são as suas âncoras,
+   fica mais fácil encontrar a melhor empresa para você trabalhar, em que seu
+   perfil esteja alinhado com a cultura organizacional.</string>
+
+    <string name="instrucaoquest">INSTRUÇÕES PARA INICIAR O TESTE ÂNCORAS DE CARREIRA \n
+Para os itens de 1 a 40 a seguir, utilize a
+seguinte escala para classificar o quanto cada um dos itens é verdadeiro para
+você :\n\n
+1 - A afirmação nunca é verdadeira para mim \n
+2 a 3 - Ocasionalmente é verdadeira para mim \n
+4 a 5 - Frequentemente é verdadeira para mim \n
+6 - Sempre é verdadeira para mim \n\n
+    Preencha um destes valores citados acima em cada uma das 40 questões  abaixo e na sequência clique em vizualizar resultados: </string>
+
+   <string name="txtresultadoA">A - Competência técnica-funcional
+Pessoas tecnicamente ancoradas comprometem-se com uma carreira de
+especialização. Elas ficam motivadas quando são especialistas em um
+determinado assunto, buscam trabalhos desafiadores, querem testar o
+conhecimento e a habilidade que possuem em sua área de atuação. São
+pessoas que não visam altos cargos administrativos (essas normalmente
+são mais generalistas) e sim cargos de especialista em uma determinada
+área.</string>
+
+    <string name="txtresultadoB">B - Competência administrativa geral
+Quem tem como âncora de carreira a competência administrativa geral
+busca, ao longo de sua vida profissional, atingir os mais altos níveis de
+responsabilidade na organização. São pessoas que visam a liderança e têm
+como motivação atingir o topo da hierarquia corporativa. Para elas, a
+especialização é uma armadilha: entendem a importância de conhecer as
+áreas funcionais, mas não buscam se aprofundar tecnicamente, pois
+querem a função de gerência geral.</string>
+
+    <string name="txtresultadoC">C - Autonomia e independência
+Pessoas com essa âncora vão buscar, com o passar do tempo, uma carreira
+que possibilite maior independência, que permite impor suas próprias
+condições. A autonomia é inerente a qualquer ser humano, em níveis
+diferentes, mas quem possui fortemente essa âncora sente a necessidade de
+ser dono de seu próprio destino, fazer as coisas do seu jeito, e por isso vai
+organizar sua vida profissional em torno de trabalhos que lhe
+proporcionem mais escolha e poder de decisão.</string>
+
+    <string name="txtresultadoD">D - Segurança e estabilidade
+Aqui se enquadram pessoas que precisam se sentir seguras no ambiente de
+trabalho. Elas buscam maior previsibilidade do futuro, querem “saber
+onde pisam”. São atraídas por empregos em empresas que oferecem essa
+estabilidade, com bons planos de aposentadoria e boa reputação. É essa
+estabilidade, principalmente financeira, que vai guiar a carreira desses
+profissionais.</string>
+
+
+    <string name="txtresultadoE">E - Criatividade empreendedora
+Nessa âncora estão os profissionais com tino para a criação de novos
+negócios e organizações. Não são pessoas necessariamente com
+criatividade artística, mas sim com um espírito empreendedor, que querem
+estabelecer ou reestruturar negócios próprios. Possuem motivação para,
+desde cedo, iniciar empreendimentos para ganhar dinheiro. Vale ressaltar
+que o enfoque aqui não é a busca por autonomia e sim pela criação de
+negócios.</string>
+
+    <string name="txtresultadoF">F - Dedicação a uma causa
+Pessoas com essa âncora são orientadas em sua carreira por valores que
+querem imprimir em seu trabalho. Elas se voltam para os valores e se
+dedicam a causas, mais do que aos seus talentos e competências. São
+profissionais que querem, de alguma forma, contribuir para um mundo
+melhor por meio de seu trabalho.</string>
+
+    <string name="txtresultadoG">G - Desafio puro
+Nessa âncora se encaixam profissionais que definem sucesso como a
+superação de obstáculos impossíveis ou como a capacidade de solucionar
+problemas insolúveis. São pessoas que necessitam sentir que podem
+conquistar qualquer coisa. A busca por desafios permeia a carreira da
+maioria das pessoas, mas para quem é ancorado no desafio puro, é o que
+norteia a sua trajetória – todas as suas decisões profissionais vão sempre
+ser com o objetivo de superar desafios cada vez maiores.</string>
+
+    <string name="txtresultadoH">H - Estilo de vida
+Muitas vezes interpretam essa âncora como sendo a de pessoas que não
+dão prioridade a sua carreira. Mas não se trata disso. A questão é que
+pessoas ancoradas pelo estilo de vida buscam encontrar uma forma de
+integrar todas as suas necessidades: individuais, de família e de carreira.
+Podem ser altamente motivadas pelo trabalho, mas entendem que ele deve
+se integrar a sua vida como um todo. São pessoas que querem, acima de
+tudo, flexibilidade. Por isso olham mais para a atitude da empresa do que
+para o programa de trabalho propriamente dito. A diferença para a âncora
+da autonomia é que elas se adaptam bem ao ambiente organizacional, com
+suas regras e restrições, mas querem ter opções mais flexíveis de trabalho.</string>
+
+    <string name="btiniciateste">COMEÇAR TESTE</string>
+
+    <string name="btmostraresult">MOSTRAR RESULTADO</string>
+</resources>

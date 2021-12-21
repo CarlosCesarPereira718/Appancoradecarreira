@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuestoesActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp"
+        >
+
+        <TextView
+            android:id="@+id/Qinstrucao"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:text="@string/instrucaoquest"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+        <TextView
+            android:id="@+id/txtQ01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:text="@string/Q1"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/etQ01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+
+        <TextView
+        android:id="@+id/txtQ02"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ01" />
+        <EditText
+            android:id="@+id/etQ02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ03"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ02" />
+        <EditText
+            android:id="@+id/etQ03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ04"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ03" />
+        <EditText
+            android:id="@+id/etQ04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ05"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ04" />
+        <EditText
+            android:id="@+id/etQ05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ06"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ05" />
+        <EditText
+            android:id="@+id/etQ06"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ07"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ06" />
+        <EditText
+            android:id="@+id/etQ07"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ08"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ07" />
+        <EditText
+            android:id="@+id/etQ08"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ09"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ08" />
+        <EditText
+            android:id="@+id/etQ09"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ10"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ09" />
+        <EditText
+            android:id="@+id/etQ10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ11"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q11"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ10" />
+        <EditText
+            android:id="@+id/etQ11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ12"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q12"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ11" />
+        <EditText
+            android:id="@+id/etQ12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ13"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q13"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ12" />
+        <EditText
+            android:id="@+id/etQ13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q14"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ13" />
+        <EditText
+            android:id="@+id/etQ14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ15"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ14" />
+        <EditText
+            android:id="@+id/etQ15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ16"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q16"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ15" />
+        <EditText
+            android:id="@+id/etQ16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ17"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q17"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ16" />
+        <EditText
+            android:id="@+id/etQ17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ18"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q18"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ17" />
+        <EditText
+            android:id="@+id/etQ18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ19"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q19"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ18" />
+        <EditText
+            android:id="@+id/etQ19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ20"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q20"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ19" />
+        <EditText
+            android:id="@+id/etQ20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ22"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q22"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ21" />
+        <EditText
+            android:id="@+id/etQ22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ21"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q21"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ20" />
+        <EditText
+            android:id="@+id/etQ21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ23"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q23"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ22" />
+        <EditText
+            android:id="@+id/etQ23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ24"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ23" />
+        <EditText
+            android:id="@+id/etQ24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ25"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+            android:text="@string/Q25"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ24" />
+        <EditText
+            android:id="@+id/etQ25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ26"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q26"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ25" />
+        <EditText
+            android:id="@+id/etQ26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ27"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q27"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ26" />
+        <EditText
+            android:id="@+id/etQ27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ28"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q28"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ27" />
+        <EditText
+            android:id="@+id/etQ28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ29"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q29"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ28" />
+        <EditText
+            android:id="@+id/etQ29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ30"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q30"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ29" />
+        <EditText
+            android:id="@+id/etQ30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ31"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q31"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ30" />
+        <EditText
+            android:id="@+id/etQ31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ32"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q32"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ31" />
+        <EditText
+            android:id="@+id/etQ32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ33"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q33"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ32" />
+        <EditText
+            android:id="@+id/etQ33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ34"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q34"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ33" />
+        <EditText
+            android:id="@+id/etQ34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ35"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q35"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ34" />
+        <EditText
+            android:id="@+id/etQ35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ36"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q36"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ35" />
+        <EditText
+            android:id="@+id/etQ36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ37"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q37"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ36" />
+        <EditText
+            android:id="@+id/etQ37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ38"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q38"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ37" />
+        <EditText
+            android:id="@+id/etQ38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ39"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q39"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ38" />
+        <EditText
+            android:id="@+id/etQ39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+
+    <TextView
+        android:id="@+id/txtQ40"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/Q40"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtQ39"
+         />
+        <EditText
+            android:id="@+id/etQ40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hintquestoes"
+            android:inputType="number"
+            android:textColorHint="#768A3D" />
+        <Button
+            android:id="@+id/btmostraresult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/black"
+            android:text="@string/btmostraresult"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="15dp"
+            app:layout_constraintTop_toBottomOf="@+id/txtintroducao"
+            app:layout_constraintVertical_bias="0.236" />
+    </LinearLayout>
+</ScrollView>
